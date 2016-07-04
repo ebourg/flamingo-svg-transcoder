@@ -388,7 +388,7 @@ public class SvgTranscoder {
         } finally {
             if (transform != null && !transform.isIdentity()) {
                 printWriter.println("");
-                printWriter.println("g.setTransform(transformations.poll()); // " + comment);
+                printWriter.println("g.setTransform(transformations.pollLast()); // " + comment);
             }
         }
     }
