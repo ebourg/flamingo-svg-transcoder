@@ -56,7 +56,7 @@ for more details.
 ### Credits
 
 The SVG Transcoder has been originaly developped by Kirill Grouchnikov as part of the Flamingo project
-(see his [blog](http://weblogs.java.net/blog/kirillcool/archive/2006/10/svg_and_java_ui_3.html?force=524)
+(see his [blog](https://web.archive.org/web/20061106160640/http://weblogs.java.net/blog/kirillcool/archive/2006/10/svg_and_java_ui_3.html)
 for more information). It leverages the [Apache Batik project](http://xmlgraphics.apache.org/batik/)
 for parsing the SVG files.
 
